@@ -1,7 +1,7 @@
 # compose-scrolling-bubble
 Demonstrates a way to build in Compose the Google Contacts Scrolling bubble feature.
 
-I've written a [deep dive article](https://ekeitho.medium.com/building-google-contacts-screen-and-its-scrolling-bubble-feature-in-compose-1f8b7e292df) on building this if you are interested.
+If interested, I wrote a [deep dive article](https://ekeitho.medium.com/building-google-contacts-screen-and-its-scrolling-bubble-feature-in-compose-1f8b7e292df) on how to build this yourself!
 
 | Google Contacts UI Demo |	Our Initial Compose Demo |
 | - | - |
